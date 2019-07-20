@@ -1,5 +1,5 @@
 package com.in.c2n.model;
-
+/*@Javeed*/
 public class Doctor {
 	private int doctorid;
 	private String doctorname;
@@ -30,7 +30,7 @@ public class Doctor {
 		this.departmentname = departmentname;
 	}
 	
-	 
+	/* ENDD*/
 	 
 	
 
