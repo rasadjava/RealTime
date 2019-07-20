@@ -1,5 +1,5 @@
 package com.in.c2n.model;
-/*@Javeed*/
+/*@Javeed_Prasad*/
 public class Doctor {
 	private int doctorid;
 	private String doctorname;
@@ -29,9 +29,5 @@ public class Doctor {
 	public void setDepartmentname(String departmentname) {
 		this.departmentname = departmentname;
 	}
-	
-	/* ENDD*/
-	 
-	
 
 }
